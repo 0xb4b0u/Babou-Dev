@@ -8,7 +8,7 @@
 
 Hello there, my name's Baptiste. I mean, Baptiste Oger, but call me BabouDev.
 
-I'm from Belgium 🇧🇪, you know the small country where you can find good beer 🍺 and chocolate 🍫!
+I'm from Belgium 🇧🇪, you know that small country where you can find good beer 🍺 and chocolate 🍫!
 
 I'm currently studying IT 🧑🏻‍💻.
 
